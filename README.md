@@ -10,4 +10,8 @@ Present people:
 - Uki
 - Dal the Great
 
+
+*(-_-)*     >(o.O)< 
+
 Git workshop is fun :)
+
