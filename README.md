@@ -6,3 +6,4 @@ Present people:
 
 Uki
 
+- Dal the Great
