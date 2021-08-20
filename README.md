@@ -8,3 +8,5 @@ Present people:
 - Urska Burska
 - Uki
 - Dal the Great
+
+Git workshop is fun :)
