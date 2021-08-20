@@ -4,4 +4,5 @@ Welcome to Git workshop part 2.
 
 Present people:
 - Urska Burska
+Uki
 - Dal the Great
