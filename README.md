@@ -13,9 +13,6 @@ Present people:
 - Monkey King
 - Mark'oh
 
-
-
-
 *(-_-)*     >(o.O)<
 
 Git workshop is fun :)
